@@ -18,6 +18,5 @@ alias ..='cd ..'
 alias ~='cd ~'
 alias vins='docker start vins && docker exec -it vins bash'
 
+alias n='curl http://www.wxzhu.top/note'
 
-alias n='cat /note'
-alias nn='vim /note'
