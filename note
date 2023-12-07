@@ -1,0 +1,4 @@
+note
+------------------------------------------
+git log --all --graph --decorate --oneline
+git fetch --all
